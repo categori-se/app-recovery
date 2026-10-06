@@ -1,0 +1,19 @@
+[
+  ".github/workflows/test.yml",
+  "LICENSE",
+  "NOTICE",
+  "README.md",
+  "public-files.json",
+  "recovery_core/LICENSE",
+  "recovery_core/NOTICE",
+  "recovery_core/README.md",
+  "recovery_core/__init__.py",
+  "recovery_core/checkpoints.py",
+  "recovery_core/ecosystem-module.json",
+  "recovery_core/filesystem.py",
+  "recovery_core/git.py",
+  "recovery_core/test_checkpoints.py",
+  "recovery_core/test_filesystem.py",
+  "recovery_core/test_git.py",
+  "scripts/check-public-tree.py"
+]
